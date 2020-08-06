@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "com.myprogaspr.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. www.myprogaspr.com</name>
+    <name>www.myprogaspr.com</name>
 
     <description>
         приложение для получения полезной новостной информации
